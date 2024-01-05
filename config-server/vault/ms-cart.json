@@ -1,3 +1,0 @@
-{	
-	"eureka.client.service-url.defaultZone": "http://admin:admin@ms-discovery-server:8761/eureka"
-}
